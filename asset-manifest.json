@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/crazy-bee-lviv/static/css/main.8b573827.chunk.css",
+    "main.js": "/crazy-bee-lviv/static/js/main.c7ae320d.chunk.js",
+    "main.js.map": "/crazy-bee-lviv/static/js/main.c7ae320d.chunk.js.map",
+    "runtime-main.js": "/crazy-bee-lviv/static/js/runtime-main.b201f981.js",
+    "runtime-main.js.map": "/crazy-bee-lviv/static/js/runtime-main.b201f981.js.map",
+    "static/js/2.5239e08e.chunk.js": "/crazy-bee-lviv/static/js/2.5239e08e.chunk.js",
+    "static/js/2.5239e08e.chunk.js.map": "/crazy-bee-lviv/static/js/2.5239e08e.chunk.js.map",
+    "index.html": "/crazy-bee-lviv/index.html",
+    "precache-manifest.b6710c6596112c5abb18e146ca0e2043.js": "/crazy-bee-lviv/precache-manifest.b6710c6596112c5abb18e146ca0e2043.js",
+    "service-worker.js": "/crazy-bee-lviv/service-worker.js",
+    "static/css/main.8b573827.chunk.css.map": "/crazy-bee-lviv/static/css/main.8b573827.chunk.css.map",
+    "static/js/2.5239e08e.chunk.js.LICENSE": "/crazy-bee-lviv/static/js/2.5239e08e.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b201f981.js",
+    "static/js/2.5239e08e.chunk.js",
+    "static/css/main.8b573827.chunk.css",
+    "static/js/main.c7ae320d.chunk.js"
+  ]
+}

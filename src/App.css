@@ -1,4 +1,32 @@
-.App {
-  text-align: center;
+/* 
+
+    font-family: 'Sigmar One', cursive;
+
+    font-family: 'Comfortaa', cursive; */
+:root {
+  --mainGreen: rgb(193, 255, 193);
+  --mainPink: rgb(250, 219, 224);
+  --mainLightBlue: rgb(198, 217, 255);
+  --mainYelloy: rgb(255, 250, 200);
+  --mainDark: rgb(24, 24, 24);
+  
+}
+* {
 }
 
+.text-title {
+  font-family: 'Sigmar One', cursive;
+  letter-spacing: 0.3rem;
+  text-transform: uppercase;
+}
+.title__main {
+  font-family: 'Sigmar One', cursive;
+}
+.header {
+  text-align: center;
+  display: grid;
+  grid-template-columns: 20% 60% 20%;
+} 
+.navbar {
+margin: 2% 10%;
+}

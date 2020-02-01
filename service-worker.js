@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/crazy-bee-lviv/precache-manifest.b6710c6596112c5abb18e146ca0e2043.js"
+  "/crazy-bee-lviv/precache-manifest.1f53468eed7ad73d9e8ab8744214a66d.js"
 );
 
 self.addEventListener('message', (event) => {
